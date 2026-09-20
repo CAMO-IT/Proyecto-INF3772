@@ -1,5 +1,6 @@
 # INF 3772
 ## Introducción
 ## Objetivo
-## Diseño
-### 
+## Diseño de la red 
+### Diseño IPv4
+### Topologia 
