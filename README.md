@@ -1,4 +1,4 @@
-# --- CASO DE ESTUDDIO ----
+# --- CASO DE ESTUDIO ----
 # REDES EMPRESARIALES
 
 ![](Images/banner.png)
@@ -8,9 +8,9 @@
 ## Objetivo
 ## Diseño de la red 
 ### Diseño IPv4
-### Diseño de la topologia
-#### Campus empresarial
-##### Capa de Nucleo 
-##### Capa de Distribución
-##### Capa de Acceso
-#### Area de Borde 
+### Diseño de la topología
+#### - Campus empresarial
+##### - Capa de Núcleo 
+##### - Capa de Distribución
+##### - Capa de Acceso
+#### - Area de Borde 
