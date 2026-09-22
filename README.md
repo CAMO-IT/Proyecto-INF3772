@@ -1,6 +1,6 @@
 # INF 3772
 
-![](./Images/banner.jpg)
+![](./Images/banner.png)
 
 ## Introducción
 ## Objetivo
