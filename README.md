@@ -1,4 +1,5 @@
-# INF 3772
+# ---- PROYECTO DE CURSO -----
+# REDES EMPRESARIALES
 
 ![](Images/banner.png)
 
