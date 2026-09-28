@@ -1,7 +1,7 @@
 # UTO|FNI|ING.INFORMÁTICA|INF3742 
 # 🏢 CASO DE ESTUDIO: Diseño e implementación de una Red Empresarial de alta disponibilidad (caso: "Universidad inf3772")
 
-![](Imagenes/banner.png)
+![](Imágenes/banner.png)
 
 ## 🎯 Objetivos del proyecto
 * Diseñar e implementar una topología de red jerárquica, redundante, segura y de alta disponibilidad.
