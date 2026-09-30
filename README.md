@@ -10,7 +10,7 @@
 
 
 > 🖼️ **Topoloía de la red**
-> `![Red empresarial: Universisas INF3772](Topología/topologia.gif)`
+> ![Red empresarial: Universisas INF3772](Topología/topologia.gif)
 
 ### 🌐 Área de Borde
 Punto de demarcación perimetral diseñado para gestionar la salida hacia internet y publicar servicios de la red interna:
