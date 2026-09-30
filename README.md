@@ -1,5 +1,5 @@
 # UTO|FNI|ING.INFORMÁTICA|INF3742 
-# 🏢 CASO DE ESTUDIO: Diseño e implementación de una Red Empresarial de alta disponibilidad (caso: "Universidad inf3772")
+# 🏢 CASO DE ESTUDIO: Diseño e implementación de una Red Empresarial de alta disponibilidad (caso: "Universidad INF3772")
 
 ![](Imágenes/banner.png)
 
@@ -9,8 +9,8 @@
 * Asegurar la infraestructura en la capa de acceso y proveer conectividad perimetral controlada hacia el exterior.
 
 
-> 🖼️ **[AQUÍ DEBES INSERTAR LA CAPTURA DE TU TOPOLOGÍA]**
-> `![Topología de la Red](Documentos/Diagrama_Topologia.png)`
+> 🖼️ **Topoloía de la red**
+> `![Red empresarial: Universisas INF3772](Topología/topologia.gif)`
 
 ### 🌐 Área de Borde
 Punto de demarcación perimetral diseñado para gestionar la salida hacia internet y publicar servicios de la red interna:
